@@ -49,6 +49,6 @@ If you want to contribute to this project, follow these steps:
 If you have any questions or suggestions, feel free to reach out to me:
 
 - Name: Asmita Porwal
-- GitHub: [asmitaporwal](https://github.com/asmitaporwal
+- GitHub: [asmitaporwal](https://github.com/asmitaporwal)
 - Email: asmita.porwal04@gmail.com
 
