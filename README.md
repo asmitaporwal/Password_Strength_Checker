@@ -1,9 +1,9 @@
-<h1 align="center" font-size="50px">Password Strength Checker</h1>
+<h1 align="center">Password Strength Checker</h1>
 <br>
 
 ## About
 
-The Password Strength Checker is a simple web application that allows users to check the strength of their passwords based on specific criteria. The app evaluates the password strength and provides feedback to the user, categorizing it as "Weak," "Medium," or "Strong."
+The Password Strength Checker is a simple web application that allows users to check the strength of their passwords based on specific criteria. The app evaluates the password strength and provides feedback to the user, categorizing it as ${\color{red}Weak}$, ${\color{orange}Medium}$ or ${\color{green}Strong}$.
 
 ## Features
 
@@ -12,15 +12,18 @@ The Password Strength Checker is a simple web application that allows users to c
 - Passwords with less than 2 characters are categorized as "Weak."
 - Passwords with more than 2 and less than 4 characters are considered "Medium."
 
-## Demo
-
-[Demo Link](https://asmitaporwal.github.io/Password_Strength_Checker/)
-
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+
+## Preview
+
+
+## Demo
+
+[Demo Link](https://asmitaporwal.github.io/Password_Strength_Checker/)
 
 ## How to Use
 
@@ -43,12 +46,7 @@ If you want to contribute to this project, follow these steps:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Create a pull request.
 
+---
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me:
-
-- Name: Asmita Porwal
-- GitHub: [asmitaporwal](https://github.com/asmitaporwal)
-- Email: asmita.porwal04@gmail.com
+<h3 align="center">Show some ❤️ by ⭐ this repository</h3>
 
